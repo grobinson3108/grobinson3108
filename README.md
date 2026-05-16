@@ -25,6 +25,7 @@ Je conçois et développe des **SaaS avec IA intégrée** en mode vibe-coding (C
 
 ### 🛠️ Projets publics
 
+- **[laravel-rag-pipeline](https://github.com/grobinson3108/laravel-rag-pipeline)** ⭐ **NEW** — Pipeline RAG complet pour Laravel : ChromaDB + Neo4j Knowledge Graph + Cohere reranking + cache sémantique L1/L2/L3 + LLM query classifier. Extrait de prod (chatbot SaaS).
 - **[laravel-mcp-server](https://github.com/grobinson3108/laravel-mcp-server)** — Build authenticated MCP servers in Laravel (Claude Desktop / Claude Code) avec Sanctum out of the box. Extrait de Botler.
 - **[mcp-server-saas-gateway](https://github.com/grobinson3108/mcp-server-saas-gateway)** — Template TypeScript : un MCP server qui fronte N REST APIs. Pour orchestrer plusieurs SaaS dans une seule conversation Claude.
 - **[claude-code-agents-laravel-vue](https://github.com/grobinson3108/claude-code-agents-laravel-vue)** — 9 sub-agents Claude Code spécialisés Laravel 12 + Vue 3 + IA. Complément de [contains-studio/agents](https://github.com/contains-studio/agents).
