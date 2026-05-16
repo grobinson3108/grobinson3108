@@ -26,6 +26,7 @@ Je conçois et développe des **SaaS avec IA intégrée** en mode vibe-coding (C
 ### 🛠️ Projets publics
 
 - **[laravel-mcp-server](https://github.com/grobinson3108/laravel-mcp-server)** — Build authenticated MCP servers in Laravel (Claude Desktop / Claude Code) avec Sanctum out of the box. Extrait de Botler.
+- **[mcp-server-saas-gateway](https://github.com/grobinson3108/mcp-server-saas-gateway)** — Template TypeScript : un MCP server qui fronte N REST APIs. Pour orchestrer plusieurs SaaS dans une seule conversation Claude.
 - **[vibe-coding-arsenal](https://github.com/grobinson3108/vibe-coding-arsenal)** — 38 commandes/skills/refs Claude Code battle-tested sur mes 19 SaaS
 - **[GBrain](https://brain.gregrobinson.dev)** — Mémoire persistante cross-machine pour LLM (Postgres+pgvector + MCP HTTP/OAuth)
 - *(plus à venir : extraits open-source de mes projets, awesome lists, templates)*
